@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-05-02 01:36:49.850,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022-05-02 01:36:50.166,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-05-02 01:37:26.046,F:\c++ builer GUI\4 Calculator\Unit1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022-05-02 01:37:26.046,F:\c++ builer GUI\4 Calculator\Unit1.cpp=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022-05-02 01:37:26.046,F:\c++ builer GUI\4 Calculator\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022-05-02 01:37:30.406,F:\c++ builer GUI\4 Calculator\Project1PCH1.h=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022-05-02 01:37:32.970,F:\c++ builer GUI\4 Calculator\Project1.cbproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
